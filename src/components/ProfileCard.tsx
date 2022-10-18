@@ -3,7 +3,7 @@ import React from "react";
 const ProfileCard = () => {
   return (
     <div className="flex flex-col justify-center items-center gap-4">
-      <p className="font-thin font-mono text-[80px] text-blue-700">WELCOME!</p>
+      <p className="font-extralight text-6xl text-blue-700">WELCOME!</p>
       <div className="w-[200px] h-[200px] rounded-full">
         <img
           className="rounded-full shadow-lg"
